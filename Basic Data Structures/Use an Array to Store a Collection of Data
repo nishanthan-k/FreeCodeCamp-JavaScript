@@ -1,0 +1,7 @@
+Original :
+
+```let yourArray = ; //change this line```
+
+Solution:
+
+```let yourArray = [true, 9, "JS", 5.9, null];```
